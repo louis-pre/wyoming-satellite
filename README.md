@@ -1,6 +1,6 @@
 ## Fork
 Forked to add some dependencies to be able to pass /dev/snd directly to this container without needing https://github.com/rhasspy/wyoming-snd-external and https://github.com/rhasspy/wyoming-mic-external.
-Used the same modifications as https://github.com/rhasspy/wyoming-satellite.
+Used the same modifications as [https://github.com/rhasspy/wyoming-satellite](https://github.com/sker65/wyoming-satellite).
 
 
 # Wyoming Satellite
