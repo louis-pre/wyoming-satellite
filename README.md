@@ -1,3 +1,8 @@
+## Fork
+Forked to add some dependencies to be able to pass /dev/snd directly to this container without needing https://github.com/rhasspy/wyoming-snd-external and https://github.com/rhasspy/wyoming-mic-external.
+Used the same modifications as https://github.com/rhasspy/wyoming-satellite.
+
+
 # Wyoming Satellite
 
 Remote voice satellite using the [Wyoming protocol](https://github.com/rhasspy/wyoming).
